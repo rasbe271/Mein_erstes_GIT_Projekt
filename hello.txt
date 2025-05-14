@@ -1,1 +1,2 @@
 hallo  mein name ist benjo
+Notiz: Ich arbeite gerade ab neiber ersten Git-Aufgabe
